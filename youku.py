@@ -137,7 +137,7 @@ def extract_acs(driver):
         i-=1
  
     #Test low res download
-    maxres = stream[0]
+    #maxres = stream[0]
     
     if maxres is None:
         print('Failed getting maxres')
