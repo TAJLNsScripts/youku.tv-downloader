@@ -7,8 +7,9 @@ Prerequisites:
 - youku.tv VIP account (optional, for VIP content)
 
 Usage:
-- pip install -r requirements.txt
-- python youku.py
+1. pip install -r requirements.txt
+2. Set the path to your Pywidevine .wvd file in variable MyWVD at the top of the file
+3. python youku.py
 
 VIP content:
 1. Log into your youku.tv account in Google Chrome
