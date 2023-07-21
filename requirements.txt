@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+m3u8==3.5.0
+pyasstosrt==1.4.0
+pywidevine==1.6.0
+Requests==2.31.0
+selenium==4.10.0
+selenium_wire==5.1.0
+webdriver_manager==3.8.6
