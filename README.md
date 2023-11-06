@@ -1,3 +1,5 @@
+##This is outdated and probably doesn't work anymore
+
 # youku.tv-downloader
 Used to download movies and series from youku.tv
 
